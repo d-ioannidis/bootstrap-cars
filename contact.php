@@ -6,7 +6,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap-icons.css" rel="stylesheet">
     <link rel="stylesheet" href="css/global.css" />
-    <title>Electric Cars</title>
+    <title>Electric Cars Project</title>
     <style>
         .footer {
             position: fixed;
