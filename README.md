@@ -5,7 +5,7 @@ A website designed for a university assignment. It includes information about el
 * A forgot password form where the user can change his password in case he forgot his old one.
 * A delete account form if the user wants to delete his account.
 
-There's also a contact form which allows a visitor to come into contact with me. The form's content is saved on a database table, and there's a local SMTP Server set up where email can be sent to our website email (e.g info@electric-cars.com). 
+There's also a contact form which allows a visitor to come into contact with me. The form's content is saved on a database table, and there's a local SMTP Server set up where email can be sent to our website email (e.g info@electric-cars.com). Lastly, there's an Explore section which includes a Tableau Data Analytics chart where a visitor or user can gain insight through the various charts shown in the story.
 
 Used technologies are:
 * HTML
@@ -14,3 +14,4 @@ Used technologies are:
 * MySQL (phpMyAdmin)
 * MailHog Service (local SMTP Server)
 * LAMP (Linux, Apache, MySQL, PHP, to run servers locally on Linux Mint)
+* Tableau (Data Analysis chart for models)
