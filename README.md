@@ -9,7 +9,7 @@ There's also a contact form which allows a visitor to come into contact with me.
 
 Used technologies are:
 * HTML
-* CSS (Boostrap v5.0)
+* CSS (Bootstrap v5.0)
 * PHP
 * MySQL (phpMyAdmin)
 * MailHog Service (local SMTP Server)
